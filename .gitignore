@@ -1,0 +1,9 @@
+# 子專案各自有獨立 git 歷史與 remote,不納入主 repo 追蹤
+/sevena/
+/sevena-backend/
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
