@@ -1,0 +1,8 @@
+{
+  "date": "20260703",
+  "username": "Woody",
+  "todos": [
+    {"task": "完成整個 1 on 1 的 mock 測試，發想與對齊需要改進的方案", "hours": ""},
+    {"task": "整理出完整的 iOS 端對後端所需的 API 修正", "hours": ""}
+  ]
+}
