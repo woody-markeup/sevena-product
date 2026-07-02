@@ -1,0 +1,12 @@
+{
+  "date": "20260702",
+  "username": "Woody",
+  "todos": [
+    {"task": "實作手動連線重試與不穩定通話 UI", "hours": ""},
+    {"task": "更新 Roadmap、待確認事項與對齊規格提案", "hours": ""},
+    {"task": "PIP 學生自視窗純視覺微調", "hours": ""},
+    {"task": "真實 session/後端完整走查與 QA", "hours": ""},
+    {"task": "iOS 學生端接線實作 POST /call/session/:id/cancel", "hours": ""},
+    {"task": "全套的 mock 測試開發", "hours": ""}
+  ]
+}

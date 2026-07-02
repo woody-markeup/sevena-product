@@ -9,6 +9,10 @@
 - 共用列舉、錯誤碼表
 - 版本相容性說明
 
+## 現有契約
+
+- [call-session-cancel.md](./call-session-cancel.md) —— `POST /call/session/:id/cancel` 取消通話+退款。✅ 後端已實作,iOS 待接線(學生端缺口 #2)。
+
 ## 變更流程
 
 1. 在此提出契約變更 (PR)
