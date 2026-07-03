@@ -20,6 +20,7 @@ description: 每日開始工作時，與使用者同步今天的 To-do 計畫。
 - `sevena/openspec/changes/` 下進行中的變更與 tasks 檔案。
 - 根目錄 `contracts/` 下的契約檔案與 `docs/PROGRESS.md`。
 - 本日已 commit 的項目。
+- **[重要] 檢查子專案**：主動走訪並檢索主專案與所有獨立 Git 子專案目錄（如 `sevena/`, `sevena-backend/`, `sevena-teacher/` 等）的 Git 變更、未追蹤檔案與本日 Commit，避免遺漏子專案中產生的開發任務。
 
 ### 3. 與使用者同步今日任務
 引導使用者確認今日計畫，確認哪些是原本計畫，哪些是與 Spec 對齊後產生的，哪些是與 Agent 對齊時「新加上」的。
