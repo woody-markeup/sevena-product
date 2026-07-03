@@ -11,6 +11,7 @@
 
 ## 現有契約
 
+- [1v1-call-ios-assumed-api.md](./1v1-call-ios-assumed-api.md) —— 1v1 通話:iOS **預建流程**與 **10 項預先假設之 API 調整**橫向總覽。🔴 阻斷唯一 = `/call/pricing` 幣別中性(現況解碼必失敗)。通話輪盤即時聯動已定案 = Agora Data Stream(iOS 學生端已實作、後端不在熱路徑、發送方交 teacher 端)。其餘多為 additive 無害。拿去跟後端拍板用。
 - [call-session-cancel.md](./call-session-cancel.md) —— `POST /call/session/:id/cancel` 取消通話+退款。✅ 後端已實作,iOS 待接線(學生端缺口 #2)。
 
 ## 變更流程
